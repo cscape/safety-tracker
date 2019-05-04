@@ -1,0 +1,16 @@
+{
+  "name": "safety-data",
+  "version": "1.0.0",
+  "description": "Process Federal Railroad Administration (Office of Safety Analysis) data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsdom": "^15.0.0"
+  }
+}
